@@ -52,6 +52,6 @@ Janice W,4,"Oct 22, 2022"   <br>
 
 <h2>Trainer</h2>
 
-*Create a Python Notebook that trains a classifier on the reviews of train_data.csv and uses it to predict the labels for the reviews of test_data.csv.
-*The Notebook should print the accuracy of the classifier (one accuracy only, not many accuracies from many different models).
-*You can use any classifier you want and tune any parameters you want.
+* Create a Python Notebook that trains a classifier on the reviews of train_data.csv and uses it to predict the labels for the reviews of test_data.csv.
+* The Notebook should print the accuracy of the classifier (one accuracy only, not many accuracies from many different models).
+* You can use any classifier you want and tune any parameters you want.
