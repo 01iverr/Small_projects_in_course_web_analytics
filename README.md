@@ -1,6 +1,6 @@
 # Small_projects_in_course_web_analytics
 <br>
-<h2>Homework1-> Word selection  </h2>
+<h2>Word selection  </h2>
  
  I had to create a pyhon notebook and create 1 method with the name select. Select took 2 parameters , 1 list with strings and L and a dictionary D.
  The dictionary has strings like keys. Every key is correlated with a list with 2 integers. <br>
@@ -50,7 +50,7 @@ Janice W,4,"Oct 22, 2022"   <br>
 * The method should print a barplot with the 20 most frequent words from the Descriptions of the movies in which the given actor plays. A bar for each of the top 20 words. The height of the bar must be equal to its frequency.
 * The method must ignore all words from the stopwords set. These words should not appear in the barplot.
 
-<h2>Trainer</h2>
+<h2>Trainer (comming) </h2>
 
 * Create a Python Notebook that trains a classifier on the reviews of train_data.csv and uses it to predict the labels for the reviews of test_data.csv.
 * The Notebook should print the accuracy of the classifier (one accuracy only, not many accuracies from many different models).
